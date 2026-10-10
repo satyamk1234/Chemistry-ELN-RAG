@@ -1,0 +1,40 @@
+DOI: 10.1002/adfm.200902372  (year 2010, 86 citations)
+Seed-mediated: False
+Precursors: Toluene (99 %); methanol (99.8 %); acetone; Cadmium oxide; selenium (99 %); octanoic acid (99 %); TOPO (99 %); trioctylphosphine (90 %); bismuth chloride (98 %); tetradecylphosphonic acid; dodecylamine (98 %); hydrogen tetrachloroaurate(III) trihydrate; tri-n-octylammonium bromide (99 %); sodium borohydride (99 %); Se; TOP; BiCl3 (2 mM)
+Target: Au; trioctylphosphine selenide (1 M); TOPSe
+Conditions: 
+Text: Toluene (>99%), methanol (≥99.8%), and acetone (≥9...solving BiCl3 in an appropriate volume of acetone.
+--------------------------------------------------------------------------------
+
+DOI: 10.1002/adfm.200902372  (year 2010, 86 citations)
+Seed-mediated: False
+Precursors: hydrogen tetrachloroaurate(III) trihydrate (0.125 g 0.317 mmol); TOAB (0.200 g 0.366 mmol); TOP; TOP; sodium borohydride (44.0 mg 1.16 mmol)
+Target: Au
+Conditions: 
+Text: Au NPs were prepared following Ref.. Briefly, hydr...imately d = 1.5 nm with an ∼18% size distribution.
+--------------------------------------------------------------------------------
+
+DOI: 10.1002/adfm.201002233  (year 2011, 154 citations)
+Seed-mediated: False
+Precursors: Chloroauric acid (99.99 %); silver nitrate (99.8 %); glycine acid (99.5 %); sulfur (99.5 %); L-ascorbic acid (99.7 %); sodium hydrate (96.0 %); cadmium nitride tetrahydrate (99.0 %); hydrochloric acid (38 %); sodium borohydride (96 %); Hexadecyltrimethylammonium bromide (99.0 %)
+Target: 
+Conditions: 
+Text: Chemicals: Chloroauric acid (HAuCl4·4H2O, 99.99%),...s were freshly prepared in double distilled water.
+--------------------------------------------------------------------------------
+
+DOI: 10.1002/adfm.201002233  (year 2011, 154 citations)
+Seed-mediated: True
+Precursors: HAuCl4 (10 mL 0.0005 M); CTAB (10 mL 0.2 M); NaBH4 (1.2 mL 0.01 M); HAuCl4 (0.005 M); AgNO3 (0.012 mL 0.1 M); CTAB (6 mL 0.2 M); HCl (0.012 mL 2.0 M); ascorbic acid (0.66 mL 0.1 M); gold
+Target: gold
+Conditions: 
+Text: Synthesis of Gold Nanorods: The gold nanorods were...mixed for 10 s and was left undisturbed overnight.
+--------------------------------------------------------------------------------
+
+DOI: 10.1002/adfm.201002445  (year 2011, 40 citations)
+Seed-mediated: True
+Precursors: Hexadecyltrimethyl ammonium bromide (291.56 mg); HAuCl4 (68 μL 0.5 M); CTAB
+Target: Gold; gold
+Conditions: 
+Text: Synthesis of Gold Nanoparticles: Gold colloids wer...times and so the gold nanoparticles were obtained.
+--------------------------------------------------------------------------------
+

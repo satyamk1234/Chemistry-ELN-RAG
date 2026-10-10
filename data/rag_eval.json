@@ -1,0 +1,12 @@
+[
+  {"question": "How are gold nanorods synthesized in the cited procedure?", "expected_doi": "10.1002/adfm.201002233"},
+  {"question": "Which source describes a gold nanorod synthesis protocol?", "expected_doi": "10.1002/adfm.201002233"},
+  {"question": "Find an Au NP synthesis using HAuCl4 hydrate.", "expected_doi": "10.1002/adfm.201002233"},
+  {"question": "Which paper mentions AgNO3 during gold nanorod work?", "expected_doi": "10.1002/adfm.201002233"},
+  {"question": "Find a recipe for gold nanorods with an aspect ratio around 2.8.", "expected_doi": "10.1002/adma.201200408"},
+  {"question": "Which study reports chemical synthesis of Au NRs?", "expected_doi": "10.1002/aenm.201501640"},
+  {"question": "Find a paper describing secondary overgrowth of gold nanorods.", "expected_doi": "10.1002/adom.201700551"},
+  {"question": "Which source discusses shape control of gold nanorods?", "expected_doi": "10.1002/anie.200802185"},
+  {"question": "Find the paper that dissolves HAuCl4 trihydrate before Au coating.", "expected_doi": "10.1002/adfm.201903549"},
+  {"question": "Which source mentions silver nitrate in a nanostructure discussion?", "expected_doi": "10.1002/anie.200603148"}
+]

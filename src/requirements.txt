@@ -1,0 +1,5 @@
+chromadb>=1.0.0
+groq>=0.18.0
+pandas>=2.2.0
+sentence-transformers>=3.0.0
+streamlit>=1.40.0
